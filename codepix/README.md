@@ -15,7 +15,7 @@ Utilizamos Docker para que todos os serviços que utilizaremos fiquem disponíve
 `docker-compose up -d`
 
 ### Como executar a aplicação
-- Acesse o container da aplicação executando: `docker exec -it app bash`
+- Acesse o container da aplicação executando: `docker exec -it codepix-app-1 bash`
 - Para criar os dados iniciais da aplicação: `go run main.go fixtures `
 - Rode `go run main.go all`
 

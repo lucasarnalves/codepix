@@ -1,0 +1,13 @@
+/*!*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[2].use[1]!./node_modules/next/dist/build/webpack/loaders/next-font-loader/index.js??ruleSet[1].rules[13].oneOf[2].use[2]!./node_modules/next/font/google/target.css?{"path":"src/components/ThemeRegistry/theme.ts","import":"Roboto","arguments":[{"weight":["300","400","500","700"],"subsets":["latin"],"display":"swap"}],"variableName":"roboto"} ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@font-face {
+  font-family: '__Roboto_Fallback_6fe377';
+  src: local("Arial");
+  ascent-override:92.67%;
+  descent-override:24.39%;
+  line-gap-override:0.00%;
+  size-adjust:100.11%;
+}@font-face {font-family: '__Roboto_Fallback_Fallback_6fe377';src: local("Arial");ascent-override: 92.67%;descent-override: 24.39%;line-gap-override: 0.00%;size-adjust: 100.11%
+}.__className_6fe377 {font-family: '__Roboto_Fallback_6fe377', '__Roboto_Fallback_Fallback_6fe377';font-style: normal
+}

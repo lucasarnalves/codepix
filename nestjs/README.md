@@ -22,6 +22,8 @@ Em todos os sistemas operacionais é necessário abrir o programa para editar o 
 Execute os comandos:
 ```
 docker compose up
+docker compose exec app bash
+npm install
 
 ## Rodar banco BBX (dentro do container app)
 BANK_CODE=001 npm run console fixtures

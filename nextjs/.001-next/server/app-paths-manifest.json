@@ -1,0 +1,3 @@
+{
+  "/bank-accounts/[bankAccountId]/dashboard/page": "app/bank-accounts/[bankAccountId]/dashboard/page.js"
+}
